@@ -115,40 +115,40 @@ After the experience with the daffodils, the poet often lies on the couch, eithe
     - **Sentence:** Reading her favorite story filled her with pure bliss.
 
 11. **wandered**  
-   - **Meaning:** Moved around without a fixed destination.  
-   - **Sentence:** The puppy wandered through the garden, exploring every corner.
+    - **Meaning:** Moved around without a fixed destination.  
+    - **Sentence:** The puppy wandered through the garden, exploring every corner.
 
 12. **breeze**  
-   - **Meaning:** A soft, gentle wind.  
-   - **Sentence:** A cool breeze made the summer day feel very pleasant.
+    - **Meaning:** A soft, gentle wind.  
+    - **Sentence:** A cool breeze made the summer day feel very pleasant.
 
 13. **continuous**  
-   - **Meaning:** Happening without stopping; unbroken.  
-   - **Sentence:** The continuous tapping of the rain on the roof helped him sleep.
+    - **Meaning:** Happening without stopping; unbroken.  
+    - **Sentence:** The continuous tapping of the rain on the roof helped him sleep.
 
 14. **never-ending**  
-   - **Meaning:** Seeming to go on forever without stopping.  
-   - **Sentence:** The queue at the ice cream shop looked never-ending on that hot day.
+    - **Meaning:** Seeming to go on forever without stopping.  
+    - **Sentence:** The queue at the ice cream shop looked never-ending on that hot day.
 
 15. **margin**  
-   - **Meaning:** The edge or border of something.  
-   - **Sentence:** She decorated the margin of her notebook with colorful stickers.
+    - **Meaning:** The edge or border of something.  
+    - **Sentence:** She decorated the margin of her notebook with colorful stickers.
 
 16. **glance**  
-   - **Meaning:** A quick look at something.  
-   - **Sentence:** He took a quick glance at his homework before dinner.
+    - **Meaning:** A quick look at something.  
+    - **Sentence:** He took a quick glance at his homework before dinner.
 
 17. **sparkling**  
-   - **Meaning:** Shining with bright flashes of light.  
-   - **Sentence:** The clean window was sparkling in the sunlight.
+    - **Meaning:** Shining with bright flashes of light.  
+    - **Sentence:** The clean window was sparkling in the sunlight.
 
 18. **glee**  
-   - **Meaning:** A feeling of great happiness or joy.  
-   - **Sentence:** The children laughed with glee while playing in the park.
+    - **Meaning:** A feeling of great happiness or joy.  
+    - **Sentence:** The children laughed with glee while playing in the park.
 
 19. **solitude**  
-   - **Meaning:** The state of being alone, often in a peaceful way.  
-   - **Sentence:** Sometimes, a little solitude helps me concentrate on my drawing.
+    - **Meaning:** The state of being alone, often in a peaceful way.  
+    - **Sentence:** Sometimes, a little solitude helps me concentrate on my drawing.
 
 20. **gazed**  
     - **Meaning:** Looked at something steadily and intently.  

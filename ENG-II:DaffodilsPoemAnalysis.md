@@ -155,7 +155,7 @@ After the experience with the daffodils, the poet often lies on the couch, eithe
     - **Sentence:** She gazed at the rainbow after the rain, amazed by its beauty.
 
 
-## **Comprehension Important Questions and Answers
+## **Comprehension Important Questions and Answers**
 
 1. **What does the opening line "I wandered lonely as a cloud" mean?**  
    *Answer:*  
@@ -197,7 +197,7 @@ After the experience with the daffodils, the poet often lies on the couch, eithe
     *Answer:*  
     Wordsworth uses clear and easy words like “cloud,” “crowd,” “fluttering,” and “dancing” to describe what he sees. This simple language helps readers imagine the beautiful scene in nature and understand how it makes the poet feel.
 
-## **Comprehension Exercise Questions and Answers
+## **Comprehension Exercise Questions and Answers**
 
 ## A. Answer These Questions
 

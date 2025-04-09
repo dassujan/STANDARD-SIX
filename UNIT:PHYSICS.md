@@ -325,6 +325,3 @@ The differences come from two factors:
 
 59. **Question:** Why is it important to understand the different states of matter? [Marks: 2]  
     **Answer:** It is important to understand the different states of matter because this knowledge helps us explain and predict how various materials will behave in everyday situations and in different conditions.
-
-60. **Question:** Provide one reason why understanding the properties of matter is essential in everyday life. [Marks: 1]  
-    **Answer:** Understanding the properties of matter is essential because it allows us to use materials effectively, whether in cooking, building, or using everyday objects.

@@ -306,8 +306,6 @@ Understanding both the benefits and risks of chemistry teaches us that science i
 
 # CHEMISTRY: COMMON LABORATORY APPARATUS AND EQUIPMENTS [UNIT]
 
-Below is a simplified explanation of each section of the material on laboratory apparatus and equipment. This explanation is written in easy language, ideal for a class 6 ICSE board exam.
-
 ## 1. Understanding the Theme and Learning Objectives
 
 **Theme:**  

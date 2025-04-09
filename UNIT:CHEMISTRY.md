@@ -301,9 +301,6 @@ Understanding both the benefits and risks of chemistry teaches us that science i
 58. **How do pollutants produced by chemical processes affect the environment? (2 marks)**  
     **Answer:** Pollutants produced by chemical processes affect the environment by contaminating the air, water, and soil, which can lead to health problems and ecological imbalances.
 
-59. **Describe the balance between the benefits and dangers of chemistry as presented in the text. (3 marks)**  
-    **Answer:** The text shows that while chemistry provides valuable products such as medicines and cleaning agents that improve our lives, it also has a dark side with dangers like chemical weapons and pollution, emphasizing the need for ethical use and careful regulation.
-
 # CHEMISTRY: COMMON LABORATORY APPARATUS AND EQUIPMENTS [UNIT]
 
 ## 1. Understanding the Theme and Learning Objectives

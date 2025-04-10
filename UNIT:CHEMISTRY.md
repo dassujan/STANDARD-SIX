@@ -1,119 +1,123 @@
 # CHEMISTRY: INTRODUCTION TO CHEMISTRY [UNIT]
 
-## Section 1: What Is Science and Chemistry?
+### Section 1: The Journey of Science – From Curiosity to Discovery
 
-### What Is Science?  
-- **Simple Explanation:**  
-  Science is the way we learn about the world. It means watching, asking questions, and experimenting to understand how things work around us.  
-- **How It Started:**  
-  Long ago, people were curious about nature. For example, they noticed that rubbing stones could create heat or that fire made food easier to eat. These simple observations led them to think and explore more.
+**What It Covers:**  
+- **What Is Science?**  
+  Science is described as the organized effort by human beings to study and understand nature. It is based on careful observations and experiments.
 
-### What Is Chemistry?  
-- **Simple Explanation:**  
-  Chemistry is a special branch of science that studies different materials (or substances) and how they change.  
-- **Why It Matters:**  
-  It teaches us what things are made of, how they interact with other substances, and how we can change them into useful products like food, clothes, medicines, and even building materials.
+- **Early Discoveries:**  
+  Long ago, humans used simple tools like stones. They noticed that rubbing two stones together could produce heat, which eventually led to making fire. This fire was used to cook food and keep animals away. Such observations laid the foundation for scientific knowledge.
 
-## Section 2: A Brief History – From Early Science to Chemistry
+- **Learning from Nature:**  
+  Observing natural events (like seeing a seed grow into a tree) encouraged early humans to learn and later pass on this knowledge, which is how science developed over time.
 
-### Early Scientific Discoveries  
-- **Observing Nature:**  
-  In ancient times, people learned by observing nature. For example, early humans discovered that stones could be used as tools and that fire provided warmth and protection.  
-- **Learning Through Experience:**  
-  Simple experiments, like dropping fruit seeds to see if new plants grew, showed them that nature could be understood and used to their advantage.
+This Section explains that science begins with everyday observations and grows through experiments and discoveries.
 
-### The Journey of Knowledge  
-- **Passing on Discoveries:**  
-  Over time, these observations and experiments were shared from one person to another. This sharing helped develop a body of knowledge that we now call science.
+### Section 2: What Is Chemistry?
 
-## Section 3: From Alchemy to Modern Chemistry
+**What It Covers:**  
+- **Definition of Chemistry:**  
+  Chemistry is the branch of science that studies the composition of different substances and how they change. It answers questions like:
+  - What are things made of?
+  - How do they change?
+  - Can humans make these substances?
 
-### What Is Alchemy?  
-- **Simple Explanation:**  
-  Alchemy was an early practice that mixed science with some magical ideas. People who practiced alchemy, called alchemists, tried to turn ordinary metals into gold.  
-- **Everyday Contributions:**  
-  Although they never found the magic "philosopher’s stone" they were searching for, alchemists discovered ways to separate and use metals. They even isolated elements like zinc and phosphorus, which are very important today.
+- **Relation to Other Branches:**  
+  Science is divided into three main branches: Physics, Chemistry, Biology
+  
+  Chemistry is special because it deals with substances and the various transformations they can undergo.
 
-### The Birth of Modern Chemistry  
-- **Moving Past Magic:**  
-  Over time, people stopped believing in magic and began doing careful experiments. This new approach led to modern chemistry—a science based on observation, experiments, and clear rules.
-- **Why It’s Important:**  
-  Modern chemistry gives us clear and reliable methods to study and use the materials around us. It helps us create everything from medicines to modern gadgets.
+This part helps you understand that chemistry is all about the building blocks of matter and the changes they experience.
 
-## Section 4: Great Chemists and Their Discoveries
+### Section 3: The Story of Alchemy and the Birth of Modern Chemistry
 
-### Who Are These Chemists?  
-- **Robert Boyle:**  
-  Called the "Father of Modern Chemistry," Boyle was one of the first to do experiments in a controlled way. This helped separate real chemistry from old alchemy.
-- **Antoine Lavoisier:**  
-  Lavoisier named the chemical elements (like carbon, hydrogen, and oxygen) and explained the role of oxygen in burning and breathing.
-- **John Dalton:**  
-  Dalton proposed that everything is made of tiny particles called atoms. This idea is a basic building block of modern chemistry.
-- **Dmitri Mendeleev:**  
-  Mendeleev organized the elements into the Periodic Table, helping us understand patterns in how elements behave.
-- **Other Scientists:**  
-  Scientists like Acharya P.C. Ray, Alfred Nobel, and Marie Curie made many other discoveries—for example, the invention of dynamite and the discovery of radioactivity.
+**What It Covers:**  
+- **Alchemy:**  
+  Alchemy comes from the Greek word *Khemeia*, which means the “art of transmuting metals.” Early alchemists mixed experiments with spiritual beliefs. They even tried to find the philosopher’s stone—a magical substance believed to turn metals into gold and offer health and immortality.
 
-### Why Are These Scientists Important?  
-- **Learning from Them:**  
-  Their careful work shows us how patience, hard work, and ethical behavior lead to great discoveries.
-- **Impact on Daily Life:**  
-  Many everyday products and medicines are based on their research, helping improve our quality of life.
+- **Contribution of Alchemy:**  
+  Even though they did not succeed in finding the philosopher’s stone, alchemists learned many techniques. They were the first to isolate elements like zinc and phosphorus. Their work laid the groundwork for what we now call modern chemistry.
 
-## Section 5: How Chemistry Helps Us Every Day
+- **Transition to Modern Chemistry:**  
+  By the 18th century, the mystical practices of alchemy were replaced with systematic scientific experiments. Modern chemistry grew from these early efforts with a focus on safety, accuracy, and controlled methods.
 
-### Everyday Products and Uses  
-Chemistry touches almost every part of our lives. Here are some key areas:
+This Section shows the evolution from mystical alchemy to the systematic approach of modern chemistry.
 
-1. **Food and Agriculture:**  
-   - **Fertilizers:** Chemicals like urea help crops grow by providing essential nutrients.  
-   - **Pesticides and Fungicides:** These chemicals keep crops safe from pests and diseases.  
-   - **Food Processing and Preservation:** Methods using chemicals keep food fresh longer (for example, salt in pickles or sugar in jams).
+### Section 4: Great Scientists Who Changed Chemistry
 
-2. **Textile and Clothing:**  
-   - **Natural and Synthetic Fibers:** Chemistry helps turn raw fibers like cotton into fabrics, and also creates synthetic materials like nylon and polyester which are used in clothes and other products.
+**What It Covers:**  
+- **Pioneers of Chemistry:**  
+  Several key scientists are honored in this Section:
 
-3. **Medicines and Healthcare:**  
-   - **Medicines:** Many drugs, from painkillers like paracetamol to antibiotics like penicillin, are made with chemical processes.
-   - **Diagnostics and Treatment:** Chemicals are used to develop tools, like portable X-ray machines, that help doctors treat patients.
+  - **Robert William Boyle:**  
+    Known as the Father of Modern Chemistry, he started using controlled experiments.
 
-4. **Industry and Manufacturing:**  
-   - **Production of Everyday Items:** Chemistry helps make plastics, paints, cleaning agents, and many other household items.
-   - **Metals and Minerals:** It is used to extract metals from ores and to refine petroleum into fuels like petrol, diesel, and LPG.
+  - **Antoine Lavoisier:**  
+    He named elements such as carbon, hydrogen, and oxygen and discovered the role of oxygen in breathing and burning.
 
-5. **Cosmetics and Personal Care:**  
-   - **Beauty Products:** From shampoos and soaps to skin creams and perfumes, chemistry is behind the creation of these items.
+  - **John Dalton:**  
+    Proposed that matter is made of small particles called atoms.
 
-6. **Building Materials and Construction:**  
-   - **Materials:** Cement, steel, glass, and paints, which are needed to build homes and roads, are all produced using chemical processes.
+  - **Dmitri Mendeleev:**  
+    Created the Periodic Table by organizing elements according to their properties.
 
-7. **Transport and Communication:**  
-   - **Fuels:** Chemical processes help produce the energy (fuels like petrol and diesel) required for transport.  
-   - **Gadgets:** The manufacturing of phones, radios, and computers involves chemistry to create components like plastics and metals.
+  - **Other Notable Scientists:**  
+    Acharya P.C. Ray, Alfred Nobel, Marie Curie, and several others made significant discoveries that continue to influence chemistry.
 
-8. **National Defence and Recreation:**  
-   - **Defence:** Some chemical products, like explosives (TNT, RDX), are used in defense, though these need to be handled carefully.  
-   - **Sports and Fun:** Many sports goods, photography films, and adhesives (like glue) are produced using chemical techniques.
+This part emphasizes the hard work, discoveries, and ethical conduct of scientists who made chemistry what it is today.
 
-### Recap of Daily Uses  
-Every product around us—from the food we eat to the buildings we live in—has a story that begins with chemistry. This makes chemistry not just a subject learned in school but also a science that improves our everyday lives and our society’s economy.
+### Section 5: Applications of Chemistry in Our Lives and Industries
 
-## Section 6: The Dark Side of Chemistry
+**What It Covers:**  
+Chemistry is everywhere! It not only helps us in our daily routines but also drives major industries. Here are some examples:
 
-### What Does “Dark Side” Mean?  
-- **Simple Explanation:**  
-  While chemistry gives us many useful things, it can also be misused to create harmful products.
+- **Food and Agriculture:**  
+  - **Fertilizers:** Help crops grow by giving them essential nutrients.  
+  - **Pesticides & Fungicides:** Protect plants by killing harmful insects and fungi.  
+  - **Food Processing & Preservation:** Chemicals are used to make food, preserve it, and sometimes even add flavor or color.
 
-### Examples of Harmful Uses  
-1. **Chemical Weapons:**  
-   - Chemicals can be made into very dangerous explosives or poisons, which, if misused, can cause great harm.
-2. **Addictive and Harmful Drugs:**  
-   - Some drugs, like cocaine and heroin, are chemicals that can be harmful and lead to addiction.
-3. **Pollution:**  
-   - Industrial processes can sometimes produce toxic chemicals that pollute the air, water, and soil. This pollution can make people, plants, and animals sick.
+- **Clothing:**  
+  Chemical processes transform natural fibers into fabrics. Today, synthetic fibers like nylon and polyester are also common.
 
-### Why It’s Important to Know  
-Understanding both the benefits and risks of chemistry teaches us that science is powerful. It reminds us to use our knowledge responsibly to help society rather than harm it.
+- **Medicines:**  
+  Many life-saving drugs, from painkillers like aspirin to antibiotics, are developed using chemical research.
+
+- **Minerals and Petroleum:**  
+  Chemical techniques help extract metals from ores and refine petroleum to get products like petrol and diesel.
+
+- **Industry:**  
+  Chemicals play an important role in manufacturing products like paints, plastics, dyes, and cleaning agents.
+
+- **Cosmetics:**  
+  Everyday items such as soaps, shampoos, and lotions are created using chemistry.
+
+- **Other Applications:**  
+  Building materials, fuels, communication devices, national defense, and even recreational items like sports goods involve chemistry.
+
+This Section underlines that almost every product we use is a gift of chemistry, making modern life easier and more efficient.
+
+### Section 6: The Dark Side of Chemistry
+
+**What It Covers:**  
+- **Potential Hazards:**  
+  Even though chemistry gives us many benefits, it can also create dangerous substances:
+  - **Chemical Weapons:** Substances like TNT and RDX can cause great harm when misused.
+  - **Addictive Drugs:** Some chemicals, if abused, can be very harmful and even fatal.
+  - **Pollution:** Industrial processes may produce pollutants that can damage the air, water, and soil, leading to health problems for both humans and animals.
+
+This section reminds us that while chemistry has many advantages, it is important to use its power responsibly.
+
+### Section 7: Recapitulation
+
+**What It Covers:**  
+- **Summary of Key Points:**  
+  - **Science** is the organized study and control of nature through observation and experiments.
+  - **Chemistry** is a branch of science focused on studying the substances and changes in matter.
+  - **Alchemy** was the ancient practice that led to modern chemistry.
+  - The efforts of **great scientists** like Boyle, Lavoisier, Dalton, and Mendeleev have greatly advanced our understanding.
+  - **Chemistry’s applications** are seen everywhere – in our homes, in industries, and in almost every part of our lives.
+  - Despite its many gifts, the **misuse of chemical knowledge** can lead to problems like pollution and harmful substances.
 
 # CHEMISTRY: INTRODUCTION TO CHEMISTRY PRACTICE QUESTIONS
 
@@ -303,154 +307,130 @@ Understanding both the benefits and risks of chemistry teaches us that science i
 
 # CHEMISTRY: COMMON LABORATORY APPARATUS AND EQUIPMENTS [UNIT]
 
-## 1. Understanding the Theme and Learning Objectives
+### Section 1: Observations and Experiments
 
-**Theme:**  
-- A chemistry laboratory is a special room where scientists perform experiments.  
-- In the lab, different tools (apparatus and equipment) help in mixing, heating, measuring, and observing changes in substances.
+**Overview:**  
+This Section highlights the importance of observation in science and explains how simple experiments help us understand the properties of materials and phenomena.
 
-**Learning Objectives:**  
-By studying this topic, you will learn to:  
-- **Appreciate the Lab:** Understand why a chemistry lab is important and how it helps scientists learn about chemicals.  
-- **Know the Lab's Organization:** Learn how the lab is arranged and why each part is placed in a particular way.  
-- **Identify Tools:** Remember the names and uses of common lab tools like test tubes, beakers, flasks, and more.  
-- **Recognize Experiments:** See how experiments help in making observations, which then lead to scientific conclusions.  
-- **Follow Safety Rules:** Know the basic precautions to be taken in a lab to stay safe while working with chemicals.
+**Key Points:**  
+- **Observations:**  
+  - Our senses (sight, touch, hearing, taste, and smell) help us notice everyday events, such as the sun rising and setting or the way a ball falls.
+  - These careful observations lead us to ask questions and test our ideas.
+- **Activity 1 – Seed Floatation Test:**  
+  - A farmer puts seeds in a beaker full of water.
+  - He observes that most seeds sink while some float.
+  - The belief is that good seeds sink and the bad ones float.
+  - This separation is possible only because of proper and careful observation.
+- **Activity 2 – Temperature Sensation with Glasses:**  
+  - Three glasses are used: one with hot water, one with lukewarm water, and one with cold water.
+  - By testing with different fingers, we observe that hot and cold sensations are relative.  
+  - This experiment shows that the idea of “hot” or “cold” can change depending on what we compare it with.
 
-## 2. Introduction to Scientific Work in the Laboratory
+### Section 2: The Chemistry Laboratory Environment
 
-- **Observation is Key:**  
-  We learn science by watching what happens around us. For example, by noticing the sunrise or how a ball falls, we can ask questions and try to understand why these things happen.
-  
-- **Role of Experiments:**  
-  Experiments are planned activities where you change something on purpose (like mixing chemicals) to see what happens. This helps in verifying facts.
-  
-- **History Note:**  
-  A scientist named Robert Boyle was one of the first to write down details of his experiments. He explained the tools used, what he did, and what he observed.
+**Overview:**  
+This Section describes how a chemistry laboratory is set up and what facilities it must include for safe and successful experiments.
 
-## 3. Learning Through Simple Activities
-
-**Activity 1: Checking Seeds in Water**  
-- **What Happens:**  
-  A farmer puts seeds in a beaker of water. Most seeds sink, while some float.  
-- **Observation:**  
-  The sinking seeds are usually good, and the floating ones are considered bad.  
-- **Lesson:**  
-  By carefully watching what happens, we can separate the good from the bad. This shows that observing can help us learn and make decisions.
-
-**Activity 2: Feeling Temperature Differences**  
-- **What Happens:**  
-  Take three glasses with hot, lukewarm, and cold water. First, put one finger from each hand in hot and cold water, and then both in lukewarm water.  
-- **Observation:**  
-  You will notice that one finger feels warmer and the other cooler, even though both are now in lukewarm water.  
-- **Lesson:**  
-  This simple experiment teaches that "hot" and "cold" are relative terms. What feels warm or cool depends on what you are comparing it with.
-
-## 4. Inside a Chemistry Laboratory
-
-A chemistry lab is a well-organized room designed to make experiments safe and effective.
-
-### Main Features of a Laboratory
-
-- **Working Tables:**  
-  - These are special tables with built-in facilities like a gas burner (for heating), a sink (for cleaning), and shelves for storing chemicals and glassware.
-  
+**Key Points:**  
+- **Working Table:**  
+  - Special tables fitted with a gas burner, a sink with a tap, a reagent shelf, and even a waste-paper basket.
+  - There is often a side shelf for keeping glass apparatus and a fume cupboard for safety.
 - **Reagent Shelf:**  
-  - A shelf where all chemicals are stored in bottles, each clearly labeled so you know what each chemical is.
-
-- **Exhaust Fans:**  
-  - Fans are installed to remove harmful gases and keep the air fresh.
-
+  - A place where all reagents and chemicals are stored in properly labeled bottles.
+- **Exhaust Fan:**  
+  - Placed near the roof to expel poisonous gases and fumes, ensuring a comfortable working environment.
 - **Balance Room:**  
-  - A separate, very clean room where sensitive scales are kept. This helps in measuring chemicals accurately without any interference from dust or smoke.
+  - A separate, dust-free and smoke-free room that contains the balances (weighing scales) for chemicals.
+  - This ensures that the measurements are accurate.
 
-## 5. Common Laboratory Apparatus and Their Simple Uses
+### Section 3: Laboratory Apparatus and Equipment
 
-The table provided in the text lists many important tools. Here are the explanations of each in easy-to-understand language:
+**Overview:**  
+In this Section, we learn about the various tools (apparatus and equipment) used in the chemistry laboratory. Each tool has a specific description and use.
+
+**Key Points:**  
+Here is a list of important apparatus with their descriptions and uses:
 
 1. **Test Tube:**  
-   - **What It Is:** A small glass tube made of regular or special strong glass.  
-   - **What It Does:** Used to mix or heat small amounts of chemicals during tests.
+   - *Description:* Made of hard or Pyrex glass.  
+   - *Use:* To conduct tests with small quantities of chemicals, including for heating and boiling purposes.
 
 2. **Test Tube Stand:**  
-   - **What It Is:** A rack (holder) made of wood or plastic.  
-   - **What It Does:** Keeps test tubes organized and upright.
+   - *Description:* A rack made of wood or plastic.  
+   - *Use:* To keep test tubes organized.
 
 3. **Test Tube Holder:**  
-   - **What It Is:** A metal tool with a clamp that helps you hold a hot test tube.  
-   - **What It Does:** Prevents burns when heating a test tube.
+   - *Description:* A metallic rod with a clamp and a handle.  
+   - *Use:* To hold test tubes safely when they are hot.
 
 4. **Beaker:**  
-   - **What It Is:** A wide, open glass container available in different sizes.  
-   - **What It Does:** Used to mix chemicals and hold liquids.
+   - *Description:* Made of glass and available in different sizes.  
+   - *Use:* To prepare and keep solutions.
 
 5. **Flask:**  
-   - **What It Is:** A type of glass container that can have a round, flat, or conical shape.  
-   - **What It Does:** Used for holding and sometimes heating chemicals or solutions.
+   - *Description:* Made of glass. Common types include round-bottom, flat-bottom, and conical.  
+   - *Use:* Used in experiments to hold solutions.
 
 6. **Measuring Cylinder:**  
-   - **What It Is:** A tall, narrow glass tube marked with measurements (like milliliters).  
-   - **What It Does:** Helps measure the volume of liquids accurately.
+   - *Description:* A glass cylinder with markings for millilitres, decilitres, and centilitres.  
+   - *Use:* To measure the volume of liquids accurately.
 
 7. **Funnel:**  
-   - **What It Is:** A cone-shaped tool with a narrow end.  
-   - **What It Does:** Helps pour liquids into containers without spilling.
+   - *Description:* A cone-shaped tool with a stem at the narrow end, made of glass or plastic.  
+   - *Use:* To filter and transfer liquids from one container to another.
 
 8. **Evaporating Dish:**  
-   - **What It Is:** A shallow dish usually made of porcelain.  
-   - **What It Does:** Used to evaporate or dry off liquids from a solution.
+   - *Description:* A bowl-shaped container made of porcelain.  
+   - *Use:* For evaporating solutions or liquids.
 
 9. **Mortar and Pestle:**  
-   - **What They Are:** A bowl (mortar) and a club-like tool (pestle), usually made of porcelain.  
-   - **What They Do:** Used together to crush or grind solid substances into a powder.
+   - *Description:* A porcelain container and a hand-tool.  
+   - *Use:* To grind and crush solid substances into powder.
 
 10. **Tripod Stand and Wire Gauze:**  
-    - **Tripod Stand:** A stand with three legs that supports lab equipment.  
-    - **Wire Gauze:** Placed on top of the tripod to spread heat evenly when heating glassware.
+    - *Description:* A three-legged iron stand; the wire gauze is a mesh fixed over the stand.  
+    - *Use:* To support glass apparatus during heating and to distribute heat evenly.
 
-11. **Spirit Lamp and Bunsen Burner:**  
-    - **Spirit Lamp:** A burner that uses spirit (a type of fuel) in a glass or metal body.  
-    - **Bunsen Burner:** A gas-powered burner used for heating substances in the lab.
+11. **Burners (Spirit Lamp and Bunsen Burner):**  
+    - *Spirit Lamp:* Made of glass, brass, or steel and uses spirit as fuel.  
+    - *Bunsen Burner:* Uses gas as fuel.  
+    - *Use:* To heat up substances during experiments.
 
 12. **Reagent Bottle:**  
-    - **What It Is:** A bottle (often glass) used to store chemicals.  
-    - **What It Does:** Keeps chemicals safely stored and ready for use.
+    - *Description:* Made of white or colored glass.  
+    - *Use:* For storing chemicals safely.
+    
+13. **Other Apparatus:**  
+    - **Gas Jar:** For collecting gases.
+    - **Analytical Balance:** For measuring the weight of substances.
+    - **Glass Cylinder, Delivery Tube, Glass Rod:** Used for transferring and stirring chemicals.
+    - **Watch Glass:** Serves as a cover for beakers and for holding small amounts of liquids.
+    - **Crucible and Cover, Pair of Tongs:** Used for heating substances strongly and safely.
+    - **Water Trough and Water Bath:** For the collection and controlled heating of substances.
+    - **Thistle Funnel:** Used to transfer liquids slowly and with control.
 
-13. **Gas Jar and Analytical Balance:**  
-    - **Gas Jar:** A container used to collect gases during an experiment.  
-    - **Analytical Balance:** A very sensitive scale used to measure small amounts of chemicals accurately.
+**Note on Materials:**  
+- Most laboratory apparatus are made of glass because it is transparent, withstands high temperatures, is easy to clean, and is chemically unreactive with most substances. Special glasses like Pyrex or Borosil are even more resistant to heat.
 
-14. **Glass Tube (Delivery Tube) and Glass Rod:**  
-    - **Glass Tube:** A hollow tube used to move liquids or gases.  
-    - **Glass Rod:** A simple stick used to stir solutions.
+### Section 4: Safety Precautions in the Laboratory
 
-15. **Watch Glass:**  
-    - **What It Is:** A small, shallow piece of glass shaped like a small dish.  
-    - **What It Does:** Used to cover beakers or hold small amounts of liquids.
+**Overview:**  
+This Section emphasizes the important safety rules to follow in a chemistry laboratory to protect ourselves and others.
 
-16. **Crucible and Cover:**  
-    - **What It Is:** A small, heat-resistant container made of porcelain.  
-    - **What It Does:** Used for strong heating when a substance needs to be heated directly.
+**Key Points:**  
+- **Work in Pairs:** Always have a partner or a teacher present; never work alone.
+- **Wear a Lab Coat:** This protects your clothes and skin from chemical spills and splashes.
+- **Arrange Apparatus Neatly:** Before starting any experiment, make sure all the equipment is in its proper place.
+- **Follow Instructions:** Carefully listen to your teacher’s instructions during experiments.
+- **Use Chemicals Wisely:** Only use small quantities of chemicals to avoid any accidents.
+- **Handle Heated Objects with Care:** When using test tubes or other heated apparatus, hold them carefully and never point them at your classmates.
+- **No Tasting or Inhaling Unknown Substances:** Do not touch, taste, or directly inhale any chemical or gas that you are not sure about.
+- **Clean Up After Experiments:** After finishing an experiment, wash the apparatus, dry them, and put them back in their respective places.
+- **Dispose of Waste Properly:** Do not throw broken glass or used filter papers into the sink; use the dustbin.
+- **Treat Accidents Immediately:** In case of burns or contact with corrosive chemicals, immediately wash the area with cold running water and report the incident to your teacher.
+- **Maintain Order:** Keep silence and maintain discipline during experiments.
 
-17. **Pair of Tongs:**  
-    - **What They Are:** Metal tools used to pick up or hold hot equipment safely.
-
-18. **Water Trough and Water Bath:**  
-    - **Water Trough:** A large bowl used sometimes to collect gases or hold solutions.  
-    - **Water Bath:** A container with warm water used to heat substances gently when direct heating is not safe.
-
-19. **Thistle Funnel:**  
-    - **What It Is:** A special type of funnel with a rounded bulb at the top and a stem with a stopper.  
-    - **What It Does:** Helps in transferring liquids slowly and with control.
-
-**Additional Points:**  
-- Some extra tools like spatulas, cork-borers, and beehive shelves are also used in laboratories.  
-- **Why Glass?**  
-  - Glass lets you see the contents clearly.  
-  - It can handle high temperatures and is easy to clean.  
-  - Special types like Pyrex do not break easily even when heated a lot.
-
-## 6. Common Laboratory Apparatus and Their Uses
+### Common Laboratory Apparatus and Their Uses
 
 | **S.No** | **Name of Apparatus**         | **Description**                                         | **Use**                                                                                                                                   |
 |----------|-------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -477,46 +457,6 @@ The table provided in the text lists many important tools. Here are the explanat
 | 21       | **Water Trough**              | Large, bowl-shaped container made of metal or glass. | Used to collect or condense gases during chemical reactions.                                                                              |
 | 22       | **Water Bath**                | Metal container for indirect heating.              | Employed when a substance cannot be heated directly by a flame.                                                                            |
 | 23       | **Thistle Funnel**            | Reservoir with a stem and a stopper.               | Transfers liquids in a controlled manner, particularly when precision is required.                                                         |
-
-## 7. Important Safety Rules in a Chemistry Lab
-
-Safety is very important when working in a chemistry lab. Here are the simple rules to follow:
-
-1. **Never Work Alone:**  
-   - Always have a teacher or lab partner with you in case of an emergency.
-
-2. **Wear a Lab Coat:**  
-   - A lab coat protects your clothes from spills and splashes.
-
-3. **Arrange Equipment Before Starting:**  
-   - Keep all your tools neatly arranged so you know where everything is.
-
-4. **Listen to Your Teacher:**  
-   - Always follow the instructions given by your teacher carefully.
-
-5. **Use Only Small Amounts of Chemicals:**  
-   - This helps to reduce the risk of accidents.
-
-6. **Handle Tools with Care:**  
-   - Be careful while using any apparatus to avoid breaking them or hurting yourself.
-
-7. **Do Not Taste or Smell Chemicals:**  
-   - Some chemicals are harmful if you touch, smell, or ingest them.
-
-8. **Clean Up After Experiments:**  
-   - Wash and dry all equipment, and then put them back in their proper places.
-
-9. **Proper Disposal:**  
-   - Do not throw hot or broken items in the sink. Use the appropriate dustbin.
-
-10. **In Case of Accidents:**  
-    - If you get burned or chemicals splash on you, wash the affected area with cold water immediately and inform your teacher.
-
-11. **Maintain Silence:**  
-    - Keeping quiet helps everyone concentrate and work safely.
-
-12. **Be Aware of Where You Point Heated Apparatus:**  
-    - When heating a test tube, never point its open end toward your friends.
 
 # CHEMISTRY: COMMON LABORATORY APPARATUS AND EQUIPMENTS PRACTICE QUESTIONS
 

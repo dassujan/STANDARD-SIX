@@ -137,8 +137,6 @@ The differences come from two factors:
 
 ## PHYSICS: MATTER PRACTICE QUESTIONS
 
-Below is a comprehensive, chapter‐wise set of 70 essential questions along with their full‑sentence answers. Each question ends with its assigned marks (1, 2, 3, 4, or 5), and the language used is simple, retaining the original phrasing as much as possible for a Class 6 ICSE board-level exam.
-
 ### **Section 1: Introduction to Matter**
 
 **Q1. Define matter. [1 mark]**  

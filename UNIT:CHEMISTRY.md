@@ -450,7 +450,35 @@ The table provided in the text lists many important tools. Here are the explanat
   - It can handle high temperatures and is easy to clean.  
   - Special types like Pyrex do not break easily even when heated a lot.
 
-## 6. Important Safety Rules in a Chemistry Lab
+## 6. Common Laboratory Apparatus and Their Uses
+
+| **S.No** | **Name of Apparatus**         | **Description**                                         | **Use**                                                                                                                                   |
+|----------|-------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | **Test Tube**                 | Made of hard or pyrex glass.                           | Conduct tests with small quantities of chemicals and for heating purposes.                                                                |
+| 2        | **Test Tube Stand**           | Rack made of wood or plastic.                          | Organizes test tubes neatly during experiments.                                                                                         |
+| 3        | **Test Tube Holder**          | Metallic rod with a clamp and a handle.               | Holds test tubes while they are hot or being heated.                                                                                      |
+| 4        | **Beaker**                    | Glass container available in various sizes.          | For mixing, preparing, and holding solutions.                                                                                             |
+| 5        | **Flask**                     | Typically glass; includes round-bottom, flat-bottom, and conical types. | Holds sufficient quantities of solutions during experiments.                                                                       |
+| 6        | **Measuring Cylinder**        | Cylindrical glass apparatus graduated in mL, dL, etc.   | Measures the volume of liquid substances accurately.                                                                                      |
+| 7        | **Funnel**                    | Cone shaped with a narrow stem.                        | Filters and transfers liquids from one container to another.                                                                              |
+| 8        | **Evaporating Dish**          | Bowl-shaped container made of porcelain.             | Used to evaporate solutions or liquids to concentrate or remove solvent.                                                                  |
+| 9        | **Mortar and Pestle**         | Porcelain container with a hand-tool (pestle).         | Grinds and crushes solid substances into powder form.                                                                                     |
+| 10       | **Tripod Stand and Wire Gauze** | Iron stand with three legs; wire gauze is placed on top. | Supports glass apparatus during heating and distributes heat uniformly.                                                                   |
+| 11       | **Spirit Lamp**               | Burner made from glass, brass, or steel with a wick.   | Uses spirit as fuel to heat substances.                                                                                                   |
+| 12       | **Bunsen Burner**             | Gas burner used for heating.                           | Provides a controlled flame for various heating applications in the lab.                                                                  |
+| 13       | **Reagent Bottle**            | Typically made of white or coloured glass.           | Stores chemicals safely.                                                                                                                  |
+| 14       | **Gas Jar**                   | Glass cylinder designed for collecting gases.        | Used to capture gases produced during experiments.                                                                                        |
+| 15       | **Analytical Balance**        | A sensitive balance with pans suspended on both sides. | Accurately measures the weight of substances for precise experimental data.                                                               |
+| 16       | **Glass Tube (Delivery Tube)** | Hollow glass tube.                                   | Transfers fluids or gases from one vessel to another during experiments.                                                                  |
+| 17       | **Glass Rod**                 | Solid glass stick.                                   | Used for stirring chemical solutions.                                                                                                     |
+| 18       | **Watch Glass**               | Concave glass plate.                                 | Acts as a cover for beakers or as a surface for evaporating small quantities of liquid.                                                     |
+| 19       | **Crucible and Cover**        | Porcelain container suitable for high temperatures.  | Used for strong and direct heating of substances where high temperature is needed.                                                        |
+| 20       | **Pair of Tongs**             | Made of metal.                                       | Picks up hot apparatus safely (e.g., crucibles).                                                                                           |
+| 21       | **Water Trough**              | Large, bowl-shaped container made of metal or glass. | Used to collect or condense gases during chemical reactions.                                                                              |
+| 22       | **Water Bath**                | Metal container for indirect heating.              | Employed when a substance cannot be heated directly by a flame.                                                                            |
+| 23       | **Thistle Funnel**            | Reservoir with a stem and a stopper.               | Transfers liquids in a controlled manner, particularly when precision is required.                                                         |
+
+## 7. Important Safety Rules in a Chemistry Lab
 
 Safety is very important when working in a chemistry lab. Here are the simple rules to follow:
 
@@ -489,35 +517,6 @@ Safety is very important when working in a chemistry lab. Here are the simple ru
 
 12. **Be Aware of Where You Point Heated Apparatus:**  
     - When heating a test tube, never point its open end toward your friends.
-
-## Common Laboratory Apparatus and Their Uses
-
-| **S.No** | **Name of Apparatus**         | **Description**                                         | **Use**                                                                                                                                   |
-|----------|-------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 1        | **Test Tube**                 | Made of hard or pyrex glass.                           | Conduct tests with small quantities of chemicals and for heating purposes.                                                                |
-| 2        | **Test Tube Stand**           | Rack made of wood or plastic.                          | Organizes test tubes neatly during experiments.                                                                                         |
-| 3        | **Test Tube Holder**          | Metallic rod with a clamp and a handle.               | Holds test tubes while they are hot or being heated.                                                                                      |
-| 4        | **Beaker**                    | Glass container available in various sizes.          | For mixing, preparing, and holding solutions.                                                                                             |
-| 5        | **Flask**                     | Typically glass; includes round-bottom, flat-bottom, and conical types. | Holds sufficient quantities of solutions during experiments.                                                                       |
-| 6        | **Measuring Cylinder**        | Cylindrical glass apparatus graduated in mL, dL, etc.   | Measures the volume of liquid substances accurately.                                                                                      |
-| 7        | **Funnel**                    | Cone shaped with a narrow stem.                        | Filters and transfers liquids from one container to another.                                                                              |
-| 8        | **Evaporating Dish**          | Bowl-shaped container made of porcelain.             | Used to evaporate solutions or liquids to concentrate or remove solvent.                                                                  |
-| 9        | **Mortar and Pestle**         | Porcelain container with a hand-tool (pestle).         | Grinds and crushes solid substances into powder form.                                                                                     |
-| 10       | **Tripod Stand and Wire Gauze** | Iron stand with three legs; wire gauze is placed on top. | Supports glass apparatus during heating and distributes heat uniformly.                                                                   |
-| 11       | **Spirit Lamp**               | Burner made from glass, brass, or steel with a wick.   | Uses spirit as fuel to heat substances.                                                                                                   |
-| 12       | **Bunsen Burner**             | Gas burner used for heating.                           | Provides a controlled flame for various heating applications in the lab.                                                                  |
-| 13       | **Reagent Bottle**            | Typically made of white or coloured glass.           | Stores chemicals safely.                                                                                                                  |
-| 14       | **Gas Jar**                   | Glass cylinder designed for collecting gases.        | Used to capture gases produced during experiments.                                                                                        |
-| 15       | **Analytical Balance**        | A sensitive balance with pans suspended on both sides. | Accurately measures the weight of substances for precise experimental data.                                                               |
-| 16       | **Glass Tube (Delivery Tube)** | Hollow glass tube.                                   | Transfers fluids or gases from one vessel to another during experiments.                                                                  |
-| 17       | **Glass Rod**                 | Solid glass stick.                                   | Used for stirring chemical solutions.                                                                                                     |
-| 18       | **Watch Glass**               | Concave glass plate.                                 | Acts as a cover for beakers or as a surface for evaporating small quantities of liquid.                                                     |
-| 19       | **Crucible and Cover**        | Porcelain container suitable for high temperatures.  | Used for strong and direct heating of substances where high temperature is needed.                                                        |
-| 20       | **Pair of Tongs**             | Made of metal.                                       | Picks up hot apparatus safely (e.g., crucibles).                                                                                           |
-| 21       | **Water Trough**              | Large, bowl-shaped container made of metal or glass. | Used to collect or condense gases during chemical reactions.                                                                              |
-| 22       | **Water Bath**                | Metal container for indirect heating.              | Employed when a substance cannot be heated directly by a flame.                                                                            |
-| 23       | **Thistle Funnel**            | Reservoir with a stem and a stopper.               | Transfers liquids in a controlled manner, particularly when precision is required.                                                         |
-
 
 # CHEMISTRY: COMMON LABORATORY APPARATUS AND EQUIPMENTS PRACTICE QUESTIONS
 

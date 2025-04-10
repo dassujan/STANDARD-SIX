@@ -351,87 +351,6 @@ In this Section, we learn about the various tools (apparatus and equipment) used
 **Key Points:**  
 Here is a list of important apparatus with their descriptions and uses:
 
-1. **Test Tube:**  
-   - *Description:* Made of hard or Pyrex glass.  
-   - *Use:* To conduct tests with small quantities of chemicals, including for heating and boiling purposes.
-
-2. **Test Tube Stand:**  
-   - *Description:* A rack made of wood or plastic.  
-   - *Use:* To keep test tubes organized.
-
-3. **Test Tube Holder:**  
-   - *Description:* A metallic rod with a clamp and a handle.  
-   - *Use:* To hold test tubes safely when they are hot.
-
-4. **Beaker:**  
-   - *Description:* Made of glass and available in different sizes.  
-   - *Use:* To prepare and keep solutions.
-
-5. **Flask:**  
-   - *Description:* Made of glass. Common types include round-bottom, flat-bottom, and conical.  
-   - *Use:* Used in experiments to hold solutions.
-
-6. **Measuring Cylinder:**  
-   - *Description:* A glass cylinder with markings for millilitres, decilitres, and centilitres.  
-   - *Use:* To measure the volume of liquids accurately.
-
-7. **Funnel:**  
-   - *Description:* A cone-shaped tool with a stem at the narrow end, made of glass or plastic.  
-   - *Use:* To filter and transfer liquids from one container to another.
-
-8. **Evaporating Dish:**  
-   - *Description:* A bowl-shaped container made of porcelain.  
-   - *Use:* For evaporating solutions or liquids.
-
-9. **Mortar and Pestle:**  
-   - *Description:* A porcelain container and a hand-tool.  
-   - *Use:* To grind and crush solid substances into powder.
-
-10. **Tripod Stand and Wire Gauze:**  
-    - *Description:* A three-legged iron stand; the wire gauze is a mesh fixed over the stand.  
-    - *Use:* To support glass apparatus during heating and to distribute heat evenly.
-
-11. **Burners (Spirit Lamp and Bunsen Burner):**  
-    - *Spirit Lamp:* Made of glass, brass, or steel and uses spirit as fuel.  
-    - *Bunsen Burner:* Uses gas as fuel.  
-    - *Use:* To heat up substances during experiments.
-
-12. **Reagent Bottle:**  
-    - *Description:* Made of white or colored glass.  
-    - *Use:* For storing chemicals safely.
-    
-13. **Other Apparatus:**  
-    - **Gas Jar:** For collecting gases.
-    - **Analytical Balance:** For measuring the weight of substances.
-    - **Glass Cylinder, Delivery Tube, Glass Rod:** Used for transferring and stirring chemicals.
-    - **Watch Glass:** Serves as a cover for beakers and for holding small amounts of liquids.
-    - **Crucible and Cover, Pair of Tongs:** Used for heating substances strongly and safely.
-    - **Water Trough and Water Bath:** For the collection and controlled heating of substances.
-    - **Thistle Funnel:** Used to transfer liquids slowly and with control.
-
-**Note on Materials:**  
-- Most laboratory apparatus are made of glass because it is transparent, withstands high temperatures, is easy to clean, and is chemically unreactive with most substances. Special glasses like Pyrex or Borosil are even more resistant to heat.
-
-### Section 4: Safety Precautions in the Laboratory
-
-**Overview:**  
-This Section emphasizes the important safety rules to follow in a chemistry laboratory to protect ourselves and others.
-
-**Key Points:**  
-- **Work in Pairs:** Always have a partner or a teacher present; never work alone.
-- **Wear a Lab Coat:** This protects your clothes and skin from chemical spills and splashes.
-- **Arrange Apparatus Neatly:** Before starting any experiment, make sure all the equipment is in its proper place.
-- **Follow Instructions:** Carefully listen to your teacher’s instructions during experiments.
-- **Use Chemicals Wisely:** Only use small quantities of chemicals to avoid any accidents.
-- **Handle Heated Objects with Care:** When using test tubes or other heated apparatus, hold them carefully and never point them at your classmates.
-- **No Tasting or Inhaling Unknown Substances:** Do not touch, taste, or directly inhale any chemical or gas that you are not sure about.
-- **Clean Up After Experiments:** After finishing an experiment, wash the apparatus, dry them, and put them back in their respective places.
-- **Dispose of Waste Properly:** Do not throw broken glass or used filter papers into the sink; use the dustbin.
-- **Treat Accidents Immediately:** In case of burns or contact with corrosive chemicals, immediately wash the area with cold running water and report the incident to your teacher.
-- **Maintain Order:** Keep silence and maintain discipline during experiments.
-
-### Common Laboratory Apparatus and Their Uses
-
 | **S.No** | **Name of Apparatus**         | **Description**                                         | **Use**                                                                                                                                   |
 |----------|-------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | **Test Tube**                 | Made of hard or pyrex glass.                           | Conduct tests with small quantities of chemicals and for heating purposes.                                                                |
@@ -457,6 +376,27 @@ This Section emphasizes the important safety rules to follow in a chemistry labo
 | 21       | **Water Trough**              | Large, bowl-shaped container made of metal or glass. | Used to collect or condense gases during chemical reactions.                                                                              |
 | 22       | **Water Bath**                | Metal container for indirect heating.              | Employed when a substance cannot be heated directly by a flame.                                                                            |
 | 23       | **Thistle Funnel**            | Reservoir with a stem and a stopper.               | Transfers liquids in a controlled manner, particularly when precision is required.                                                         |
+
+**Note on Materials:**  
+- Most laboratory apparatus are made of glass because it is transparent, withstands high temperatures, is easy to clean, and is chemically unreactive with most substances. Special glasses like Pyrex or Borosil are even more resistant to heat.
+
+### Section 4: Safety Precautions in the Laboratory
+
+**Overview:**  
+This Section emphasizes the important safety rules to follow in a chemistry laboratory to protect ourselves and others.
+
+**Key Points:**  
+- **Work in Pairs:** Always have a partner or a teacher present; never work alone.
+- **Wear a Lab Coat:** This protects your clothes and skin from chemical spills and splashes.
+- **Arrange Apparatus Neatly:** Before starting any experiment, make sure all the equipment is in its proper place.
+- **Follow Instructions:** Carefully listen to your teacher’s instructions during experiments.
+- **Use Chemicals Wisely:** Only use small quantities of chemicals to avoid any accidents.
+- **Handle Heated Objects with Care:** When using test tubes or other heated apparatus, hold them carefully and never point them at your classmates.
+- **No Tasting or Inhaling Unknown Substances:** Do not touch, taste, or directly inhale any chemical or gas that you are not sure about.
+- **Clean Up After Experiments:** After finishing an experiment, wash the apparatus, dry them, and put them back in their respective places.
+- **Dispose of Waste Properly:** Do not throw broken glass or used filter papers into the sink; use the dustbin.
+- **Treat Accidents Immediately:** In case of burns or contact with corrosive chemicals, immediately wash the area with cold running water and report the incident to your teacher.
+- **Maintain Order:** Keep silence and maintain discipline during experiments.
 
 # CHEMISTRY: COMMON LABORATORY APPARATUS AND EQUIPMENTS PRACTICE QUESTIONS
 

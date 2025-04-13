@@ -3,7 +3,8 @@
 ## Section 1: Categories of Computers
 
 **Introduction:**  
-Just as you need a specific bat for cricket or a particular racquet for tennis, different types of computers are made for different purposes. Their differences lie in size, speed, storage capacity, and cost.
+Different computers are designed for various purposes, differing in size, speed, storage capacity, and cost.
+
 ### 1.1 Microcomputers  
 - **Definition:**  
   Microcomputers are small computers that work on a single microprocessor (a small chip that acts like the computer’s brain).  

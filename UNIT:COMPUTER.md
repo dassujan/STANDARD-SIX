@@ -1,9 +1,9 @@
-# Computer: Categories of Computers and Languages- unit
+# Computer: Categories of Computers and Computers Languages- unit
 
 ## Section 1: Categories of Computers
 
 **Introduction:**  
-Different computers are designed for various purposes, differing in size, speed, storage capacity, and cost.
+Just as you need a specific bat for cricket or a particular racquet for tennis, different types of computers are made for different purposes. Their differences lie in size, speed, storage capacity, and cost
 
 ### 1.1 Microcomputers  
 - **Definition:**  
@@ -383,10 +383,10 @@ Imagine Zeeshan’s friend wants the video clip of the school play on his pen dr
 39. How many question marks would you use to find “care.docx” and “code.docx”? (1)  
 40. Why are wildcard characters helpful? (2)  
 
-## Section 5: Different File Formats (10 Questions)
+## Section 5: Different File Formats (9 Questions)
 
-41. What is a file extension? (1)  
-42. Why are file extensions used? (1)  
+41. What is a file extension and why is it used? (2)  
+42. Give one example each of a program file, a text file, and an image file. (3)  
 43. What does JPEG stand for and what is it used for? (2)  
 44. What is the file extension of a JPEG file? (1)  
 45. What does MP3 stand for and what does it store? (2)  
@@ -394,4 +394,3 @@ Imagine Zeeshan’s friend wants the video clip of the school play on his pen dr
 47. What is MP4 used for? (1)  
 48. What does DOCX store? (1)  
 49. What is the default file format of Microsoft Excel and its extension? (2)  
-50. Give one example each of a program file, a text file, and an image file. (3)  

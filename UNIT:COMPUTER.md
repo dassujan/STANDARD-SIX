@@ -1,4 +1,4 @@
-# Computer: Categories of Computers and Computer Languages- unit
+# Computer: Categories of Computers and Languages- unit
 
 ## Section 1: Categories of Computers
 
@@ -136,7 +136,7 @@ Since the computer only understands machine language (the language of 0s and 1s)
   - It immediately reports any error as soon as it occurs.  
   - This line-by-line process makes it easier to locate and fix errors.
 
-# Computer: Categories of Computers and Computer Languages- unit Practice Questions
+# Computer: Categories of Computers and Languages- unit Practice Questions
 
 ### Section 1: Categories of Computers
 

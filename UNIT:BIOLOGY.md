@@ -530,222 +530,194 @@ Fruits are classified into three main types:
 
 # Biology: Flower and Fruit (Unit) Practice Questions
 
-### 1. Introduction to Flowering Plants
+### **I. Introduction**
 
-1. **Define a flowering plant. (1 mark)**  
-   **Answer:** A flowering plant consists of a root, a stem, leaves (the vegetative parts), and the flower, which is the reproductive part.
+1. **What is a flowering plant? (1 mark)**  
+   **Answer:** A flowering plant is a plant that has roots, a stem, leaves (the vegetative parts), and a flower which is its reproductive part.
 
-2. **What are the vegetative parts of a plant? (1 mark)**  
-   **Answer:** The vegetative parts of a plant are the parts involved mainly with nutrition and growth, such as the roots, stem, and leaves.
+2. **Define the vegetative parts of a plant. (1 mark)**  
+   **Answer:** The vegetative parts of a plant include the root, stem, and leaves, which are mainly involved in nutrition and growth.
 
-3. **What is the reproductive part of a plant called? (1 mark)**  
-   **Answer:** The reproductive part of a plant is called the flower.
+3. **What is the main purpose of a flower in a plant? (1 mark)**  
+   **Answer:** The main purpose of a flower is reproduction; it produces the male (stamens) and female (pistil) parts needed for fertilisation and the formation of seeds.
 
-4. **Name the two main reproductive structures in a flower. (1 mark)**  
-   **Answer:** The two main reproductive structures in a flower are the stamens (male) and the pistil (female).
+4. **Name the two reproductive parts found in a flower and briefly state their functions. (2 marks)**  
+   **Answer:** The two reproductive parts are the stamens, which produce pollen (male gametes), and the pistil, which contains the ovary with ovules (female gametes) that develop into seeds after fertilisation.
 
-5. **What is fertilisation? (1 mark)**  
-   **Answer:** Fertilisation is the process in which the male gamete and the female gamete fuse together.
+5. **Define fertilisation in simple terms. (2 marks)**  
+   **Answer:** Fertilisation is the process in which the male gamete from the pollen fuses with the female gamete from the ovule to form a zygote.
 
-6. **What does fertilisation result in? (1 mark)**  
-   **Answer:** Fertilisation results in the development of a fruit that contains seeds.
+6. **What is pollination? (2 marks)**  
+   **Answer:** Pollination is the process of transferring pollen from the anther (male part) of a flower to the stigma (female part).
 
-7. **Explain what happens when seeds germinate. (2 marks)**  
-   **Answer:** When seeds germinate under favorable conditions of air, water, and temperature, they grow and develop into new plants.
+7. **Which agents help in pollination? (1 mark)**  
+   **Answer:** The agents include insects, wind, water, and birds.
 
-8. **List two main functions of a flower. (2 marks)**  
-   **Answer:** A flower’s main functions are to ensure reproduction by producing male and female gametes and to attract pollinators with its bright colours and fragrance.
+8. **Explain in your own words how self-pollination differs from cross-pollination. (3 marks)**  
+   **Answer:** In self-pollination, the pollen of a flower is transferred to the stigma of the same flower or another flower on the same plant, resulting in little genetic variation. In cross-pollination, pollen is transferred from the anther of one plant’s flower to the stigma of a different plant’s flower, which increases genetic diversity.
 
-9. **How do seeds get dispersed from the parent plant? (2 marks)**  
-   **Answer:** Seeds are dispersed by various agents such as wind, water, animals, and humans, and their structures are modified to aid this dispersal process.
+9. **What is a floral bud? (1 mark)**  
+   **Answer:** A floral bud is a young, undeveloped flower that will eventually bloom.
 
-10. **Why are flowers usually very attractive in appearance? (2 marks)**  
-    **Answer:** Flowers are usually very attractive because their bright colours and pleasant fragrances help attract birds and insects for pollination.
+10. **Why is the flower considered one of the most attractive parts of a plant? (1 mark)**  
+    **Answer:** The flower is attractive because of its bright colors and pleasant fragrance, which help in attracting pollinators.
 
-### 2. Structure and Parts of a Flower
+### **II. Structure of the Flower**
 
-11. **What is a floral bud? (1 mark)**  
-    **Answer:** A floral bud is the undeveloped form of the flower that later opens into a complete flower.
+11. **List the four main whorls of a typical flower. (1 mark)**  
+    **Answer:** The four main whorls are the calyx, corolla, androecium, and gynoecium.
 
-12. **Where are floral buds located on a plant? (1 mark)**  
-    **Answer:** Floral buds are located either at the terminal (top) end or in the axils of the stem.
+12. **What is the function of the calyx (sepals) in a flower? (2 marks)**  
+    **Answer:** The calyx protects the flower in the bud stage and may also perform photosynthesis since the sepals are green and leaf-like.
 
-13. **What are adventitious buds? (1 mark)**  
-    **Answer:** Adventitious buds are buds that form on any part of the plant, such as the roots, stems, or trunks, rather than in the usual locations.
+13. **What is the corolla and what is its main function? (2 marks)**  
+    **Answer:** The corolla is the whorl of petals, which are usually brightly colored and fragrant, and they help attract pollinators such as insects and birds.
 
-14. **What is meant by the term “calyx”? (1 mark)**  
-    **Answer:** The calyx is the collective term for the sepals of a flower.
+14. **Describe the structure of a stamen. (3 marks)**  
+    **Answer:** A stamen is the male reproductive part of a flower and consists of a filament, which is a slender stalk, and an anther, which is the rounded head that produces pollen grains.
 
-15. **What function do the sepals serve? (1 mark)**  
-    **Answer:** The sepals protect the flower while it is in the bud stage and may also help in photosynthesis.
+15. **What are the parts of the pistil (gynoecium) and their functions? (3 marks)**  
+    **Answer:** The pistil, or gynoecium, is the female reproductive part of a flower. It is made up of the stigma, which is sticky and captures pollen; the style, which is a tube-like structure connecting the stigma to the ovary; and the ovary, which contains ovules that develop into seeds after fertilisation.
 
-16. **Define the term “corolla.” (1 mark)**  
-    **Answer:** The corolla is the collective term for the petals of a flower.
+16. **What is the pedicel and why is it important? (2 marks)**  
+    **Answer:** The pedicel is the stalk that holds up the flower and connects it to the stem, providing support and stability.
 
-17. **Why do petals play an important role in a flower? (2 marks)**  
-    **Answer:** Petals are important because their bright colours and fragrance attract insects and birds that are essential for pollination.
+17. **Define the term 'thalamus' as it relates to a flower. (3 marks)**  
+    **Answer:** The thalamus is the swollen part at the top of the pedicel from which the floral whorls arise.
 
-18. **What constitutes the androecium of a flower? (1 mark)**  
-    **Answer:** The androecium of a flower is made up of the stamens.
+18. **What is an epicalyx and in which flower is it typically seen? (3 marks)**  
+    **Answer:** An epicalyx is an extra whorl of leaf-like structures (bracteoles) that appears outside the calyx in some flowers, such as the hibiscus.
 
-19. **Describe the structure of a stamen. (2 marks)**  
-    **Answer:** A stamen consists of two parts: a filament, which is a slender stalk, and an anther, which is the head where pollen grains are produced.
+19. **What is a bract? (2 marks)**  
+    **Answer:** A bract is a reduced leaf found at the base of the pedicel and sometimes supports the flower.
 
-20. **What is the main function of an anther? (1 mark)**  
-    **Answer:** The anther produces pollen grains that contain the male gametes.
+20. **What function might bracteoles serve in a flower? (2 marks)**  
+    **Answer:** Bracteoles are small, leaf-like structures that may protect the flower or help form an epicalyx in some flowers.
 
-21. **What is the gynoecium of a flower? (1 mark)**  
-    **Answer:** The gynoecium is the female reproductive part of a flower and is also known as the pistil.
+### **III. Pollination and Fertilisation**
 
-22. **Name the three parts that make up a carpel. (2 marks)**  
-    **Answer:** A carpel is made up of the stigma, style, and ovary.
+21. **What happens during pollination? (1 mark)**  
+    **Answer:** During pollination, pollen is transferred from the anther to the stigma of a flower.
 
-23. **What is the function of the stigma in a flower? (1 mark)**  
-    **Answer:** The stigma is sticky and serves as the landing platform for pollen grains.
+22. **How does self-pollination occur? (2 marks)**  
+    **Answer:** Self-pollination occurs when the pollen from a flower’s anther is transferred directly to the stigma of the same flower or another flower on the same plant.
 
-24. **Explain the role of the style in the flower. (1 mark)**  
-    **Answer:** The style is a tubular structure that connects the stigma to the ovary, allowing the pollen to reach the ovules.
+23. **How does cross-pollination contribute to a plant's genetic diversity? (3 marks)**  
+    **Answer:** Cross-pollination, which occurs when pollen moves from one plant’s flower to a different plant’s flower of the same species, allows mixing of genes and leads to offspring with greater genetic variation.
 
-25. **What happens to the ovary after fertilisation? (1 mark)**  
-    **Answer:** After fertilisation, the ovary enlarges and develops into a fruit.
+24. **In what way do insects assist in the process of pollination? (3 marks)**  
+    **Answer:** Insects are attracted to the bright colors and sweet fragrances of the flowers; as they collect nectar, they inadvertently pick up pollen and transfer it from one flower to another.
 
-26. **What is a bract? (1 mark)**  
-    **Answer:** A bract is a reduced leaf found at the base of the pedicel.
+25. **Explain how wind can act as a pollinator. (2 marks)**  
+    **Answer:** Wind acts as a pollinator by carrying light and smooth pollen grains from the anthers of one flower to the stigma of another flower, especially in plants with small, dull-colored flowers.
 
-27. **Differentiate between a bract and a bracteole. (2 marks)**  
-    **Answer:** A bract is a reduced leaf at the base of the pedicel, while a bracteole is a small, leaf-like structure found between a bract and the flower.
+26. **Describe how water helps in the pollination of aquatic plants. (2 marks)**  
+    **Answer:** In aquatic plants, water carries pollen from the male parts of a flower to the female parts by floating the pollen across the surface, ensuring pollination occurs.
 
-28. **What is an epicalyx? (1 mark)**  
-    **Answer:** An epicalyx is an extra whorl formed by a few leaf-like structures found in some flowers, such as in hibiscus.
+27. **How do birds contribute to the pollination process? (3 marks)**  
+    **Answer:** Birds, attracted by certain colors like red or orange and by the nectar in the flowers, visit the flowers and transfer pollen from one flower to another as they feed.
 
-29. **What is the pedicel of a flower? (1 mark)**  
-    **Answer:** The pedicel is the stalk that holds up a single flower.
+28. **Briefly explain the process of fertilisation in a flowering plant. (3 marks)**  
+    **Answer:** Fertilisation in a flowering plant occurs when the pollen grain on the stigma germinates and its tube grows down the style to reach the ovule, where the male sperm fuses with the female egg cell to form a zygote.
 
-30. **Define “thalamus” in the context of a flower. (1 mark)**  
-    **Answer:** The thalamus is the upper, swollen part of the pedicel from which the floral whorls arise.
+29. **What occurs within the ovary after fertilisation? (2 marks)**  
+    **Answer:** After fertilisation, the ovary develops into a fruit and the ovules inside the ovary develop into seeds.
 
-### 3. Pollination and Fertilisation
+30. **Explain why fertilisation is essential for the formation of a new plant. (3 marks)**  
+    **Answer:** Fertilisation is essential because it leads to the formation of a zygote that develops into an embryo inside the seed; the seed then grows into a new plant when conditions are favourable.
 
-31. **What is pollination? (2 marks)**  
-    **Answer:** Pollination is the transfer of pollen grains from the anther of a flower to the stigma of a flower.
+### **IV. Fruit Formation and Structure**
 
-32. **How does self-pollination occur? (2 marks)**  
-    **Answer:** Self-pollination occurs when the pollen from the anther of a flower is transferred to the stigma of the same flower or to another flower on the same plant.
+31. **Define a true fruit. (2 marks)**  
+    **Answer:** A true fruit is a fruit that develops solely from the fertilised ovary of a flower and contains seeds that form from the ovules.
 
-33. **How does cross-pollination differ from self-pollination? (2 marks)**  
-    **Answer:** Cross-pollination involves the transfer of pollen from the anther of a flower on one plant to the stigma of a flower on another plant, promoting genetic diversity.
+32. **What makes a false fruit different from a true fruit? (2 marks)**  
+    **Answer:** A false fruit develops from a part of the flower other than the ovary, such as the thalamus, and not solely from the fertilised ovary.
 
-34. **Name two agents that help in cross-pollination. (2 marks)**  
-    **Answer:** Two agents that help in cross-pollination are insects and wind.
+33. **List the three layers of a fruit’s pericarp. (2 marks)**  
+    **Answer:** The three layers of a fruit’s pericarp are the epicarp (outer layer), the mesocarp (middle fleshy layer), and the endocarp (inner layer that surrounds the seed).
 
-35. **What role do insects play in pollination? (2 marks)**  
-    **Answer:** Insects are attracted by the bright colours and fragrance of petals, and as they move from flower to flower, they transfer pollen, facilitating pollination.
+34. **What is the function of the epicarp in a fruit? (1 mark)**  
+    **Answer:** The epicarp serves as the outer skin of the fruit, protecting the inner layers and the seeds.
 
-36. **How does wind assist in pollination? (2 marks)**  
-    **Answer:** Wind assists in pollination by carrying the light and smooth pollen from one flower to another, ensuring that the pollen reaches the stigma.
+35. **Describe the role of the mesocarp. (2 marks)**  
+    **Answer:** The mesocarp is the fleshy, middle layer of the fruit that often serves as an edible part, storing food and attracting animals to help in seed dispersal.
 
-37. **Define fertilisation in plants. (2 marks)**  
-    **Answer:** Fertilisation in plants is the process in which the male gamete from the pollen fuses with the female gamete inside the ovule to form a zygote.
+36. **What does the endocarp do? (1 mark)**  
+    **Answer:** The endocarp is the inner layer of the pericarp that directly surrounds and protects the seed(s).
 
-38. **What is formed as a result of fertilisation? (1 mark)**  
-    **Answer:** As a result of fertilisation, a zygote is formed, which later develops into an embryo within the seed.
+37. **Why are fruits important for seed dispersal? (2 marks)**  
+    **Answer:** Fruits are important because they protect the seeds and often attract animals or use wind and water to help carry the seeds away from the parent plant.
 
-39. **Explain the relationship between fertilisation and fruit formation. (2 marks)**  
-    **Answer:** After fertilisation, the ovary of the flower enlarges to form a fruit, and the ovules inside the ovary develop into seeds.
+38. **How does seed dispersal benefit the plant species? (3 marks)**  
+    **Answer:** Seed dispersal benefits the plant species by spreading the seeds to different locations, reducing competition with the parent plant, and increasing the chances of seeds germinating in suitable conditions.
 
-40. **Why is cross-pollination considered beneficial for genetic diversity? (2 marks)**  
-    **Answer:** Cross-pollination is beneficial for genetic diversity because it involves the mixing of pollen between different plants, resulting in offspring with varied genetic characteristics.
+39. **Describe one way in which animals help disperse seeds. (3 marks)**  
+    **Answer:** Animals help disperse seeds by eating the fruit and later excreting the indigestible seeds at a different location, which allows the seeds to grow into new plants far from the original plant.
 
-### 4. Fruit Formation and Structure
+40. **Explain how wind can help in seed dispersal. (2 marks)**  
+    **Answer:** Wind disperses seeds by carrying lightweight seeds or seeds with wing-like or hairy structures over long distances to new areas, ensuring their spread.
 
-41. **What is a fruit in botanical terms? (2 marks)**  
-    **Answer:** Botanically, a fruit is the mature, ripened ovary of a flower that contains seeds.
+### **V. Types of Fruits and Their Characteristics**
 
-42. **What are the two main parts of a typical fruit? (2 marks)**  
-    **Answer:** The two main parts of a typical fruit are the pericarp (fruit wall) and the seeds.
+41. **Name one example of a berry and explain what makes it a berry. (1 mark)**  
+    **Answer:** Tomato is an example of a berry because it is a fleshy fruit that does not have a hard stone and contains seeds embedded in its pulp.
 
-43. **What is the pericarp and how is it formed? (2 marks)**  
-    **Answer:** The pericarp is the fruit wall that develops from the ovary wall after fertilisation.
+42. **Name one example of a drupe and describe its structure. (1 mark)**  
+    **Answer:** Mango is an example of a drupe because it has a fleshy outer part and a central hard stone that encloses the seed.
 
-44. **List the three layers of the pericarp. (3 marks)**  
-    **Answer:** The three layers of the pericarp are the epicarp (outer layer), mesocarp (middle fleshy layer), and endocarp (innermost layer).
+43. **Name one example of a pome and explain why it is called a false fruit. (1 mark)**  
+    **Answer:** Apple is an example of a pome because although it appears to be a fruit, its edible part develops partly from the thalamus rather than solely from the ovary.
 
-45. **What function does the epicarp serve in a fruit? (1 mark)**  
-    **Answer:** The epicarp serves as the outer skin that protects the fruit.
+44. **How does the structure of a drupe differ from that of a berry? (2 marks)**  
+    **Answer:** A drupe has a fleshy outer layer with a hard stone or pit in the centre that encases the seed, while a berry is entirely fleshy without a hard central pit.
 
-46. **How is the mesocarp different from the epicarp? (2 marks)**  
-    **Answer:** The mesocarp is the middle, usually fleshy, layer of the fruit, whereas the epicarp is the outer protective layer.
+45. **Why are fruits considered a good source of food? (3 marks)**  
+    **Answer:** Fruits are considered a good source of food because they are rich in vitamins, minerals, and dietary fibre, and they provide essential nutrients and energy for both humans and animals.
 
-47. **What is the role of the endocarp in a fruit? (1 mark)**  
-    **Answer:** The endocarp is the inner layer that directly surrounds and protects the seed.
+46. **What role do fruits play in protecting seeds? (2 marks)**  
+    **Answer:** Fruits protect the seeds by encasing them in a hard or fleshy covering that shields them from damage and unfavorable environmental conditions.
 
-48. **Why are fruits important for seed protection? (2 marks)**  
-    **Answer:** Fruits are important for seed protection because they enclose the seeds, shielding them from damage and unfavorable climatic conditions.
+47. **What is the pericarp in a fruit? (2 marks)**  
+    **Answer:** The pericarp is the wall of the fruit, and it is divided into three layers: the epicarp (outer layer), the mesocarp (middle fleshy layer), and the endocarp (inner layer).
 
-49. **How do fruits assist in seed dispersal? (2 marks)**  
-    **Answer:** Fruits assist in seed dispersal by being carried away by wind, water, or animals, which helps spread the seeds to new locations.
+48. **How does the structure of the pericarp contribute to a fruit’s function? (3 marks)**  
+    **Answer:** The structure of the pericarp contributes to a fruit’s function by providing protection (epicarp), nourishment and attractants for seed dispersal (mesocarp), and a strong covering for the seeds (endocarp).
 
-50. **What is a true fruit? (2 marks)**  
-    **Answer:** A true fruit is one that forms from the fertilised ovary of a flower and in which the ovules are transformed into seeds.
+49. **Give one example of a fruit that is used both as food and for medicinal purposes. (2 marks)**  
+    **Answer:** The tomato is used both as food and for its medicinal properties, as it is rich in nutrients and antioxidants.
 
-51. **What do we call a fruit that develops from parts other than the ovary? (2 marks)**  
-    **Answer:** A fruit that develops from parts of the flower other than the ovary is called a false fruit.
+50. **Explain in simple terms why fruits help in the dispersal of seeds. (3 marks)**  
+    **Answer:** Fruits help in the dispersal of seeds because they are often eaten by animals or carried by the wind or water, which then carry the seeds to new places where they can germinate into new plants.
 
-52. **Define a berry and give an example. (2 marks)**  
-    **Answer:** A berry is a fleshy fruit without a stone, with seeds embedded in the pulp; an example is a tomato.
+### **VI. Overall Significance and Summary**
 
-53. **What is a drupe and provide one example. (2 marks)**  
-    **Answer:** A drupe is a fleshy fruit with thin skin and a central hard stone containing the seed; an example is a mango.
+51. **Summarize the role of flowers in the reproductive process of plants. (3 marks)**  
+    **Answer:** Flowers play a vital role in the reproductive process by attracting pollinators with their bright colors and fragrances, facilitating pollination, enabling fertilisation, and ultimately developing into fruits that contain the seeds for new plants.
 
-54. **Explain what a pome (false fruit) is. (3 marks)**  
-    **Answer:** A pome, or false fruit, develops partly from the thalamus of the flower rather than solely from the ovary, as seen in fruits like apple and pear.
+52. **How do the non-essential whorls (calyx and corolla) support the reproduction of a flower? (4 marks)**  
+    **Answer:** The non-essential whorls support reproduction by protecting the developing flower in the bud stage (calyx) and attracting pollinators with bright colors and pleasant smells (corolla), thereby ensuring that the essential reproductive parts can successfully produce seeds and fruits.
 
-55. **Which part of the fruit primarily protects the seeds? (1 mark)**  
-    **Answer:** The pericarp (fruit wall) primarily protects the seeds.
+53. **Describe the journey from pollination to fruit formation in a flowering plant. (5 marks)**  
+    **Answer:** The journey begins when pollen from the anther is transferred to the stigma through the help of pollinators such as insects, wind, water, or birds. After landing on the stigma, the pollen grain germinates and grows a tube down the style to reach an ovule. Fertilisation occurs when the male sperm cell fuses with the female egg cell, forming a zygote. This zygote develops into an embryo inside the seed as the ovary grows into a fruit that protects the developing seeds.
 
-56. **Why are fruits considered a rich source of food? (2 marks)**  
-    **Answer:** Fruits are considered a rich source of food because they contain important vitamins, minerals, and dietary fibre that are beneficial for health.
+54. **What is the function of the ovary in a flower after fertilisation? (2 marks)**  
+    **Answer:** After fertilisation, the ovary develops into a fruit that protects the seeds and aids in their dispersal.
 
-### 5. Additional Aspects and Summary
+55. **Explain the importance of flowers and fruits in natural ecosystems. (4 marks)**  
+    **Answer:** Flowers and fruits are important in natural ecosystems because they ensure the reproduction and survival of plant species. Flowers attract pollinators, which help in transferring pollen and promoting genetic diversity, while fruits protect seeds and help disperse them by attracting animals, using wind, or water, thus supporting the propagation of plants.
 
-57. **Why are flowering plants grown for decoration? (1 mark)**  
-    **Answer:** Flowering plants are grown for decoration because their bright colours and pleasant fragrance beautify gardens and homes.
+56. **Why are flowers considered both beautiful and functional? (3 marks)**  
+    **Answer:** Flowers are considered beautiful because of their bright colors and pleasant fragrances, and functional because they perform the essential role of reproduction by facilitating pollination and fertilisation, leading to the production of fruits and seeds.
 
-58. **How are certain flowers used to make perfumes and extract oils? (2 marks)**  
-    **Answer:** Certain flowers like rose and jasmine are used to extract oils and make perfumes because of their strong, pleasant scents.
+57. **Describe how the structure of a typical flower aids in successful pollination. (3 marks)**  
+    **Answer:** The structure of a typical flower is designed so that the calyx protects the flower in its bud stage, the corolla attracts pollinators, the androecium produces pollen, and the gynoecium receives and houses the ovules. This precise arrangement increases the chances that pollen will be effectively transferred and fertilisation will occur.
 
-59. **What is honey and how is it produced? (2 marks)**  
-    **Answer:** Honey is a sweet substance produced by bees from the nectar they collect from flowers, and it is used as both food and medicine.
+58. **What is meant by a 'neuter' flower? (2 marks)**  
+    **Answer:** A neuter flower is one that lacks both functional male and female reproductive parts.
 
-60. **Give two examples of vegetative parts of a plant. (1 mark)**  
-    **Answer:** Two examples of vegetative parts of a plant are the roots and the stem with leaves.
+59. **Define the term 'seed dispersal' and state its significance. (3 marks)**  
+    **Answer:** Seed dispersal is the process of scattering seeds away from the parent plant, and it is significant because it reduces competition, enables colonisation of new areas, and promotes the survival and spread of the species.
 
-61. **What is the role of the stamens in a flower? (1 mark)**  
-    **Answer:** The stamens play a role in reproduction by producing pollen that contains the male gametes.
-
-62. **How do pistils help in the reproductive process? (1 mark)**  
-    **Answer:** Pistils help in the reproductive process by housing the ovules, where fertilisation takes place, leading to seed development.
-
-63. **What is the function of the pedicel? (1 mark)**  
-    **Answer:** The pedicel functions as the stalk that supports the flower.
-
-64. **Describe how the thalamus is important for flower structure. (2 marks)**  
-    **Answer:** The thalamus is important because it is the swollen part of the pedicel from which all the floral parts (whorls) develop.
-
-65. **What happens to ovules during fertilisation? (1 mark)**  
-    **Answer:** During fertilisation, ovules receive the sperm cells, which later develop into seeds.
-
-66. **Define seed dispersal. (2 marks)**  
-    **Answer:** Seed dispersal is the process by which seeds are spread away from the parent plant to grow in new locations.
-
-67. **Name two adaptations of seeds that help in their dispersal. (3 marks)**  
-    **Answer:** Two adaptations include the presence of wing-like or hairy extensions and hooks or spines on the seeds, which help them be carried by wind, water, or animals.
-
-68. **Explain the importance of pollination in the life cycle of a plant. (2 marks)**  
-    **Answer:** Pollination is important because it allows the transfer of pollen from the male part to the female part of the flower, which is essential for fertilisation and the formation of seeds and fruits.
-
-69. **Why might a plant benefit more from cross-pollination than self-pollination? (2 marks)**  
-    **Answer:** A plant benefits more from cross-pollination because it leads to greater genetic variation, resulting in healthier and more adaptable offspring.
-
-70. **Summarise the key functions of a flower and a fruit. (5 marks)**  
-    **Answer:** A flower is a modified shoot that is responsible for reproduction; it has essential whorls (stamens and pistils) that produce pollen and ovules, and non-essential whorls (sepals and petals) that protect the reproductive parts and attract pollinators. After fertilisation, the ovary enlarges into a fruit that protects and nourishes the developing seeds, aids in seed dispersal, and provides food for animals and humans.
+60. **Summarize the entire reproductive process in flowering plants, from the formation of the flower to the dispersal of the seeds. (5 marks)**  
+    **Answer:** The reproductive process in flowering plants begins with a floral bud that develops into a flower composed of four whorls: the calyx, corolla, androecium, and gynoecium. Pollination occurs as pollen is transferred from the anther to the stigma by agents such as insects, wind, water, or birds. Once the pollen lands on the stigma, it germinates and grows a tube to the ovule, where fertilisation takes place with the fusion of male and female gametes to form a zygote. The zygote develops into an embryo, and the ovary matures into a fruit that protects the seed. Finally, the fruit facilitates seed dispersal through various means, such as being eaten by animals or carried by wind or water, thereby ensuring the continuation of the plant’s life cycle.

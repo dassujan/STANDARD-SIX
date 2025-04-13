@@ -147,28 +147,6 @@ Leaves can change their shape or function to help the plant in special ways. Her
 - **Understanding It:**  
   - This experiment shows that during photosynthesis, oxygen is given out by the leaves.
 
-## Section 7: Summary and Key Facts
-
-**Key Points to Remember:**
-
-1. **Plant System:**  
-   - A plant has a root system (below ground) and a shoot system (above ground with stem, leaves, branches, flowers, and fruits).
-2. **Leaf Structure:**  
-   - A typical leaf consists of the leaf base (attachment point), petiole (leaf stalk), and lamina (leaf blade).
-   - The midrib runs through the lamina, and veins branch out to form a network.
-3. **Types of Leaves:**  
-   - **Simple Leaf:** The entire blade is undivided and has an axillary bud.
-   - **Compound Leaf:** The blade is divided into leaflets; no axillary bud is present on the individual leaflets.
-4. **Leaf Arrangement (Phyllotaxy):**  
-   - Leaves may be arranged alternately, oppositely, or in a whorled pattern on the stem.
-5. **Functions of the Leaf:**  
-   - **Photosynthesis:** Using sunlight, water, and carbon dioxide to make food and produce oxygen.
-   - **Transpiration:** Losing water as vapor to cool the plant.
-   - **Gas Exchange:** Taking in carbon dioxide and releasing oxygen through stomata.
-6. **Leaf Modifications:**  
-   - Leaves can be modified into tendrils for climbing, spines for protection and reducing water loss, storage organs for food, or even traps to catch insects.  
-   - Some modifications also allow plants to reproduce asexually through vegetative propagation.
-
 # Biology: Plant Life (Unit) Practice Questions
 
 ### **Section 1: Introduction to Plant Life**
@@ -520,13 +498,6 @@ Fruits are classified into three main types:
   - **Berries:** Fleshy fruits without a stone.  
   - **Drupes:** Fleshy fruits with a stone.  
   - **Pomes:** Also known as false fruits; they form partly from the thalamus.
-
-## 7. Easy Explanation in Short
-
-- **Flower:** A flower is a specially modified shoot where reproduction happens. It has parts that protect it and parts that help in making seeds.  
-- **Pollination:** Involves moving pollen from the male part of the flower to the female part. It can occur within the same flower or between different plants, using wind, water, insects, or birds.  
-- **Fertilisation:** When pollen reaches the ovule, the male and female cells combine to form a zygote that eventually grows into a seed.  
-- **Fruit:** The ovary of the flower becomes a fruit after fertilisation, and the ovules inside develop into seeds. Fruits protect seeds and help spread them, so new plants can grow.
 
 # Biology: Flower and Fruit (Unit) Practice Questions
 
